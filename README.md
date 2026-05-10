@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murtaza Akbari</h1>
 <h3 align="center">A coding and software dev fan from Afghanistan 🇦🇫</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **Murtaza.py@gmail.com**
 
